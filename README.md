@@ -23,6 +23,11 @@ This Spring Boot project implements JWT authentication for securing APIs using J
 - `MyUserDetails`: Implements `UserDetailsService` for user data.
 - `WebSecurityConfig`: Configures security settings and applies JWT authentication.
 
+## Token-Generation Service Testing using Postman
+
+![Token-Generation Service Testing using Postman](https://github.com/sanbit876/Spring_Boot_JWT-based-Authentication/assets/24634950/5da61e3c-5890-4eae-9fe5-193b86f1fc52)
+
+
 ## Getting Started
 
 1. Clone the repository.
